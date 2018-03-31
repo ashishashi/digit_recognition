@@ -1,1 +1,2 @@
-digit_reconition 
+#digit_reconition
+Using MNIST Dataset
